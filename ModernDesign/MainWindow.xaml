@@ -33,8 +33,9 @@
                        VerticalAlignment="Center"
                        HorizontalAlignment="Left"
                        Foreground="White"
-                       FontSize="22"
-                       Margin="20,0,0,0"/>
+                       FontSize="24"
+                       Margin="20,0,0,0"
+                       FontFamily="/Fonts/#Sono"/>
 
             <StackPanel Grid.Row="1">
                 <RadioButton Content="Home"
